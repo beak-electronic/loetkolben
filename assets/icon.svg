@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Lötkolben-Tetris v3. Rounded r=22% -->
+  <rect width="512" height="512" rx="112.64" ry="112.64" fill="#dd007a"/>
+  <rect x="87.3" y="254.2" width="101.5" height="95.6" rx="14" fill="#ffffff"/>
+  <rect x="79.6" y="266.0" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <rect x="186.7" y="266.0" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <rect x="79.6" y="291.9" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <rect x="186.7" y="291.9" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <rect x="79.6" y="317.9" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <rect x="186.7" y="317.9" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <circle cx="138.0" cy="254.2" r="11.8" fill="#dd007a"/>
+  <rect x="205.3" y="254.2" width="101.5" height="95.6" rx="14" fill="#ffffff"/>
+  <rect x="197.6" y="266.0" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <rect x="304.7" y="266.0" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <rect x="197.6" y="291.9" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <rect x="304.7" y="291.9" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <rect x="197.6" y="317.9" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <rect x="304.7" y="317.9" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <circle cx="256.0" cy="254.2" r="11.8" fill="#dd007a"/>
+  <rect x="323.3" y="254.2" width="101.5" height="95.6" rx="14" fill="#ffffff"/>
+  <rect x="315.6" y="266.0" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <rect x="422.7" y="266.0" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <rect x="315.6" y="291.9" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <rect x="422.7" y="291.9" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <rect x="315.6" y="317.9" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <rect x="422.7" y="317.9" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <circle cx="374.0" cy="254.2" r="11.8" fill="#dd007a"/>
+  <rect x="205.3" y="372.2" width="101.5" height="95.6" rx="14" fill="#ffffff"/>
+  <rect x="197.6" y="384.0" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <rect x="304.7" y="384.0" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <rect x="197.6" y="409.9" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <rect x="304.7" y="409.9" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <rect x="197.6" y="435.9" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <rect x="304.7" y="435.9" width="9.7" height="13.0" rx="3" fill="#ffffff"/>
+  <circle cx="256.0" cy="372.2" r="11.8" fill="#dd007a"/>
+  <polygon points="252.5,264.6 304.9,236.3 275.1,209.6" fill="#ffffff"/>
+  <polygon points="297.0,234.6 335.1,192.3 315.8,174.9 277.7,217.2" fill="#ffffff"/>
+  <polygon points="336.2,200.0 348.3,186.6 320.0,161.2 308.0,174.6" fill="#ffffff"/>
+  <polygon points="350.7,206.3 390.9,161.7 340.3,116.2 300.2,160.8" fill="#ffffff"/>
+  <circle cx="365.6" cy="139.0" r="34" fill="#ffffff"/>
+  <circle cx="325.5" cy="183.6" r="32.3" fill="#ffffff"/>
+  <polygon points="352.5,179.0 358.5,172.3 333.2,149.5 327.2,156.2" fill="#dd007a"/>
+  <polygon points="371.2,158.2 377.2,151.5 352.0,128.7 346.0,135.4" fill="#dd007a"/>
+  <polygon points="390.0,137.3 396.0,130.7 370.7,107.9 364.7,114.6" fill="#dd007a"/>
+  <polygon points="249.2,243.1 255.6,258.8 271.2,265.1 255.6,271.5 249.2,287.1 242.9,271.5 227.2,265.1 242.9,258.8" fill="#ffffff"/>
+  <circle cx="265.2" cy="279.1" r="9" fill="#ffffff"/>
+  <circle cx="235.2" cy="277.1" r="5.5" fill="#ffffff"/>
+</svg>
