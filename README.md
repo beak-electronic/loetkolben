@@ -1,5 +1,5 @@
-# BEAK Lötkolben-Tetris
+# Lötkolben-Tetris
 
-Tetris mini game with electronic-component tetrominos (v0.1).
+Browser-Minispiel (GitHub Pages).
 
-Live: https://beak-electronic.github.io/loetkolben/
+Öffnen: index.html bzw. die Pages-URL dieses Repos.
