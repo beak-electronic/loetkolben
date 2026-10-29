@@ -115,7 +115,7 @@ canvas#game{position:fixed;left:0;top:0;width:100%;height:100%;display:block;out
 <script>
 (function(){
 "use strict";
-var VERSION = "v0.5";
+var VERSION = "v0.6";
 var PINK = "#dd007a", WHITE = "#ffffff", GREY = "#505050", LIGHT = "#b4b4b4";
 var SOLDER = "#c9a86a", SOLDER_HOT = "#ffe6a0", SMOKE = "rgba(180,180,180,0.45)";
 var COLS = 10, ROWS = 20, HIDDEN = 0;
@@ -1118,13 +1118,13 @@ function layoutBoard(){
     var head=Math.max(56*u, 58);
     top=head+Math.max(0,(Lh-700)*0.06);
     boardMaxW=Lw-28;
-    boardMaxH=Lh-top-168*u;
+    boardMaxH=Lh-top-184*u;
     cell=Math.floor(Math.min(boardMaxW/COLS, boardMaxH/ROWS));
     cell=Math.max(12, Math.min(cell, Math.floor(boardMaxH/ROWS))); // never taller than available
     bw=COLS*cell; bh=ROWS*cell;
     G.field={x:(Lw-bw)/2, y:top+4, w:bw, h:bh, r:8};
     G.cell=cell; G.gap=gap;
-    G.hudY=G.field.y+G.field.h+14*u;
+    G.hudY=G.field.y+G.field.h+30*u;
     LAY.logo={cx:Lw/2, y:Math.max(6, head*0.12), h:Math.min(28*u, head*0.55)};
     LAY.pause={x:Lw-28*u, y:Math.max(14, head*0.28), r:16*u};
     LAY.music={x:LAY.pause.x-40*u, y:LAY.pause.y, r:16*u};
@@ -1173,7 +1173,7 @@ function drawLogo(cx, y, beakH){
   for(i=0;i<letters.length;i++){ c.fillText(letters[i], x, baseline); x+=widths[i]+gap; }
   c.beginPath(); c.arc(x+dotR, baseline-beakSize*0.28, dotR, 0, Math.PI*2); c.fill();
   x+=dotR*2+gapLogo;
-  c.font=subSize+"px NunitoLI"; c.globalAlpha=0.55; c.fillStyle=WHITE;
+  c.font=subSize+"px NunitoLI"; c.globalAlpha=1; c.fillStyle=WHITE;
   for(i=0;i<sub.length;i++){ c.fillText(sub[i], x, baseline); x+=c.measureText(sub[i]).width+track; }
   c.globalAlpha=1;
   c.restore();
